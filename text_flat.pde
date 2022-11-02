@@ -7,4 +7,10 @@ appWidth = width;
 appHeight = height;
 //Copy the Display Algorithm later
 //
+//Population
+titleX = ;
+titleY = ;
+titleWidth = ;
+titleHeight = ;
+//
 rect(titleX, titleY, titleWidth, titleHeight);
