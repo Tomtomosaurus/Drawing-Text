@@ -1,5 +1,6 @@
 //Gloabal Variables
 int appWidth, appHeight;
+String title = "Wahoo";
 float titleX, titleY, titleWidth, titleHeight;
 //
 size(500, 600); //Portrait
